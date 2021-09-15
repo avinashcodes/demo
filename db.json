@@ -2,7 +2,7 @@
     "featureToggles": [
         {
             "id":"useHighCharts",
-            "enabled": true
+            "enabled": false
         }
     ]
 }
