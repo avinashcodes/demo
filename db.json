@@ -1,7 +1,8 @@
 {
     "featureToggles": [
         {
-            "useHighCharts": true
+            "id":"useHighCharts",
+            "enabled": true
         }
     ]
 }
